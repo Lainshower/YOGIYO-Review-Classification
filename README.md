@@ -28,11 +28,11 @@ Term Project in Advanced Machine Learning
   1. Random Forest
   2. SGD Classifier
   3. XGBoost
-  > Model Code : (ML)[]
+  > Model Code : model/bert.py
   
 ### Pre-trained Model
   - BERT : Use pretrained KoBERT model from [SKT-Pretrained KoBERT](https://github.com/SKTBrain/KoBERT)
-  > Model Code : (BERT)[https://github.com/Lainshower/YOGIYO-Review-Classification/blob/main/model/bert.py]
+  > Model Code : model/bert.py
 
 ## Results
  
