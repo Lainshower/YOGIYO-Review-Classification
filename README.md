@@ -28,7 +28,7 @@ Term Project in Advanced Machine Learning
   1. Random Forest
   2. SGD Classifier
   3. XGBoost
-  > Model Code : model/bert.py
+  > Model Code : machinelearning.ipynb
   
 ### Pre-trained Model
   - BERT : Use pretrained KoBERT model from [SKT-Pretrained KoBERT](https://github.com/SKTBrain/KoBERT)
