@@ -25,7 +25,7 @@ Term Project in Advanced Machine Learning
 ### Model
 ---
 #### Machine Learning
-  - Embedding : Fasttext Embedding
+  - Embedding : Pretrained Fasttext Embedding from [Fasttext](https://fasttext.cc/docs/en/support.html)
   1. Random Forest
   2. SGD Classifier
   3. XGBoost
@@ -38,8 +38,14 @@ Term Project in Advanced Machine Learning
 ---
   #### Quantitative Results
   * XGBoost
+  <p align="center">
+   <img src = "https://github.com/Lainshower/YOGIYO-Review-Classification/blob/main/results/xgboost-result.png?raw=true">
+  </p>
   
   * BERT
+  <p align="center">
+   <img src = "https://github.com/Lainshower/YOGIYO-Review-Classification/blob/main/results/BERT-result.png?raw=true">
+  </p>
 
   #### Qualitative Results
   * XGBoost
