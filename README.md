@@ -6,7 +6,7 @@ Term Project in Advanced Machine Learning
 ---
 * 요기요에서 세종대학교 주변 음식점 69개에 대한 리뷰를 크롤링해서 데이터셋을 구축
 * 정규표현식을 활용해서 특수기호 및 이모티콘을 제거했고, 네이버 맞춤법 검사기 바탕의 py-hanspell을 활용해 맞춤범 검사를 진행
-* 자세한 데이터셋 구축은 ()을 참고하시면 됩니다.
+* 자세한 데이터셋 구축 및 전처리는 [preprocessing/전처리과정.ipynb](https://github.com/Lainshower/YOGIYO-Review-Classification/blob/main/preprocessing/%EC%A0%84%EC%B2%98%EB%A6%AC%EA%B3%BC%EC%A0%95.ipynb)을 참고하시면 됩니다.
 
 * 아래와같이 '맛', '배달', '양'과 관련된 형태소가 없는 경우, 텍스트 기반 별점추론이 매우 어려워 Rule-based 방법을 도입해 '맛', '배달', '양'과 관련된 형태소가 존재하는 리뷰들만 필터링해 모델링을 하기로 결정
 
@@ -37,6 +37,9 @@ Term Project in Advanced Machine Learning
 ### Results
 ---
   #### Quantitative Results
+  * XGBoost
+  
+  * BERT
 
   #### Qualitative Results
   * XGBoost
