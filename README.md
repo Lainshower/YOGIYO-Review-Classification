@@ -31,7 +31,7 @@ Term Project in Advanced Machine Learning
   3. XGBoost
   
 #### Pre-trained Model
-  - BERT [SKT-Pretrained KoBERT](https://github.com/SKTBrain/KoBERT)
+  - BERT : Use pretrained KoBERT model from [SKT-Pretrained KoBERT](https://github.com/SKTBrain/KoBERT)
   
 ---
 ### Results
